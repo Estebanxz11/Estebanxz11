@@ -1,16 +1,28 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**Estebanxz11/Estebanxz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy Juan Esteban Londoño Gomez, Ingeniero de sistemas y desarrollador fullstack apasionado por la programación y la resolución de problemas. Aquí encontrarás algunos de los proyectos en los que he trabajado y las tecnologías que manejo.
 
-Here are some ideas to get you started:
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Estebanxz11&color=green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que manejo
+
+- **Lenguajes:**
+  - Java
+  - JavaScript
+  - Php
+  - HTML/CSS
+
+- **Frameworks y Librerías:**
+  - Spring Boot
+  - Vue
+  - Laravel
+  - Node.js
+
+- **Herramientas y Plataformas:**
+  - Git
+  - GitHub
+  - Visual Studio Code
+
+¡No dudes en explorar mis repositorios y contactarme si tienes preguntas o ideas para colaborar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/yourprofile)
