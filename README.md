@@ -25,4 +25,4 @@
 
 ¡No dudes en explorar mis repositorios y contactarme si tienes preguntas o ideas para colaborar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/yourprofile)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/yourprofile) -->
